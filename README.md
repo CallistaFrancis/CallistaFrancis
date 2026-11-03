@@ -34,8 +34,6 @@ I am a performance-driven Software & IT professional and BSc (Hons) IT graduate 
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Calli28&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![Calli28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Calli28&show_icons=true&theme=radical&hide_border=true)
 
 📫 **How to reach me:** [callistajr31@gmail.com](mailto:callistajr31@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/callista-francis/)
