@@ -33,7 +33,14 @@ I am a performance-driven Software & IT professional and BSc (Hons) IT graduate 
 
 ---
 
-### 📈 GitHub Stats
-![Calli28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Calli28&show_icons=true&theme=radical&hide_border=true)
+### 🛠️ Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 📫 **How to reach me:** [callistajr31@gmail.com](mailto:callistajr31@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/callista-francis/)
