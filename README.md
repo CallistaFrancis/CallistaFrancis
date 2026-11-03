@@ -126,7 +126,7 @@
 | :---: |
 | <img src="https://img.shields.io/badge/Arcade-Play_2D_Game_Online-FF4500?style=for-the-badge&logo=retroarch&logoColor=white" /> |
 | **Click below to launch my Java / JavaScript 2D Web Arcade in your browser!** |
-| [![Play Game](https://img.shields.io/badge/▶️_PRESS_START_TO_PLAY-00FF00?style=for-the-badge)](https://Calli28.github.io/game) |
+| [![Play Game](https://img.shields.io/badge/▶️_PRESS_START_TO_PLAY-00FF00?style=for-the-badge)](https://calli28.github.io/CallistaFrancis/) |
 
 </div>
 
